@@ -21,7 +21,7 @@ To get started with the SDK you must have a Facebook app
 <a href="https://developers.facebook.com/">registered on
 developers.facebook.com</a>.
 
-**IMPORTANT**: Enable all migrations in the App's Settings->Migrations page.
+**IMPORTANT**: Enable all migrations in the Migrstions box on the App's Settings-> Advanced page.
 
 **IMPORTANT**: For extra security, the SDK requires that you turn on 'App Secret
 Proof for Server API calls' in your app's Settings->Advanced page.
